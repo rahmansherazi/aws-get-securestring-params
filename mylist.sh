@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AWS_REGION="ca-central-1"
+AWS_REGION="us-east-1"
 
 # Output file
 OUTPUT_FILE="list.txt"
